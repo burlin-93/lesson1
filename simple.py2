@@ -1,0 +1,6 @@
+product = {
+    "city": "Москва",
+    "temperature": "20"
+}   
+product["temperature"] = product["temperature"] - 10
+print(product["temperature"])
